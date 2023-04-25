@@ -12,7 +12,7 @@ Evaluar el impacto de los incendios forestales en el medio ambiente y la econom�
 Metodología
 Para llevar a cabo el análisis de los incendios forestales en España, se utilizarán diversas técnicas de análisis de datos, incluyendo la visualización de datos, el análisis estadístico y el modelado de datos.
 
-**Fuentes de datos
+**Fuentes de datos**
 Los datos utilizados en este proyecto provienen de diferentes fuentes, como:
 
 La Comisión Europea
